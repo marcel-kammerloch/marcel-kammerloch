@@ -39,8 +39,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F34F29" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
