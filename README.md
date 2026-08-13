@@ -10,15 +10,15 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2022<br>📚 I'm currently mainly developing apps using Next.js</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently mainly developing apps using Next.js.</p>
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
-<div data-importer="techs" align="center">
+<div align="center">
   <img src="https://cdn.simpleicons.org/nextdotjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
@@ -52,9 +52,12 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/marcel-kammerloch/marcel-kammerloch/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/marcel-kammerloch/marcel-kammerloch/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">My stats</h2>
 
 ###
+
+<div align="left">
+ <img src="https://github-stats-extended.vercel.app/api?username=marcel-kammerloch&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true" height="200" alt"github stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=marcel-kammerloch&layout=compact&langs_count=4&hide_values=true&disable_animations=true" height="200" alt="most used languages graph"/>
+</div>
