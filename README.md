@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Marcel and I'm a Full-Stack Web-Developer, from Germany</p>
+<b data-importer="text" align="left">My name is Marcel, and I'm a Full-Stack Web Developer from Germany.</b>
 
 ###
 
