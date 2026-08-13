@@ -1,18 +1,11 @@
-<h1 data-importer="text" align="left">Hey 👋. I'm Marcel, a web developer from Germany.</h1>
+# Hey 👋. I'm Marcel, a web developer from Germany.
 
-###
+## About me
 
-<h2 data-importer="text" align="left">About me</h2>
+- 🐛 **Creating (and squashing) bugs** since 2022
+- 🚀 **Core Stack:** Next.js, TypeScript, and modern web tech
 
-###
-
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently mainly developing apps using Next.js.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## I code with
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/nextdotjs" height="40" alt="nextjs logo"  />
@@ -44,11 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<h2 align="left">My stats</h2>
-
-###
+## My stats
 
 <div align="left">
  <img src="https://github-stats-extended.vercel.app/api?username=marcel-kammerloch&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true" height="200" alt"github stats" />
