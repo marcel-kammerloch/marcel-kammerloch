@@ -1,8 +1,4 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
-
-###
-
-<b data-importer="text" align="left">My name is Marcel, and I'm a Full-Stack Web Developer from Germany.</b>
+<h1 data-importer="text" align="left">Hey 👋. I'm Marcel, a web developer from Germany.</h1>
 
 ###
 
