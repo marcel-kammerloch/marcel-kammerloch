@@ -40,7 +40,7 @@
 ## My stats
 
 <div align="left">
- <img src="https://github-stats-extended.vercel.app/api?username=marcel-kammerloch&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true" height="200" alt"github stats" />
+ <img src="https://github-stats-extended.vercel.app/api?username=marcel-kammerloch&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true" height="200" alt"github stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=marcel-kammerloch&layout=compact&langs_count=4&hide_values=true&disable_animations=true" height="200" alt="most used languages graph"/>
 </div>
